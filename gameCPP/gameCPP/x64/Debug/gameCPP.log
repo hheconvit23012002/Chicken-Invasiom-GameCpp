@@ -1,0 +1,23 @@
+﻿  gameCPP.cpp
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(33,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(33,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(39,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(68,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(68,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(69,7): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(93,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(94,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(101,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(201,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(201,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(214,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(214,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(388,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(390,47): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(391,48): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(392,43): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(394,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(423,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(423,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\New folder\gameCPP\gameCPP\gameCPP.cpp(494,17): warning C4553: '==': result of expression not used; did you intend '='?
+  gameCPP.vcxproj -> D:\New folder\gameCPP\x64\Debug\gameCPP.exe
